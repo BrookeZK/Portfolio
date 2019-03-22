@@ -40,3 +40,9 @@ h2 {
   float: left;
   width: 50%;
 }
+
+#mission {
+  font-size: 30px;
+  font-style: normal;
+  margin: 60px;
+}
