@@ -46,10 +46,13 @@ h2 {
   font-style: normal;
   margin: 60px;
 }
-
-/* .row {
-  float: left;
+/*
+.row #aboutme {
+  text-align: left;
+}
+/* .row { */
+  /* float: left;
   width: 50%;
   position: relative;
   padding: 100px;
-} */
+} */ */
