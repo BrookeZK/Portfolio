@@ -2,12 +2,22 @@ body {
   background-image: url(../img/flower5.jpg);
 }
 
+.sidebar {
+  width: 50%;
+  height: 570px;
+  float: right;
+  background-color: hotpink;
+  padding: 20px;
+  margin-top: 40px;
+}
+
 h1 {
   text-align: center;
   color: black;
+  line-height: 200px;
   font-family: cursive;
   font-style: italic;
-  font-size: 70px;
+  font-size: 100px;
   border: 5px;
   background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
   border-radius: 20%;
@@ -21,15 +31,19 @@ h2 {
   font-size: 40px;
   border: 5px;
   background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
-  border-radius: 20%;
+  border-radius: 20;
+  line-height: 100px;
 }
 
 .center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
   width: 50%;
-  padding: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  float: left;
 }
 
 .col-md-6 {
@@ -37,9 +51,11 @@ h2 {
   background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
   border-radius: 20%; */
   text-align: center;
-  float: left;
-  width: 50%;
-  height: 50px;
+  /* float: left; */
+  /* width: 50%; */
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
 }
 
 #mission {
@@ -61,15 +77,34 @@ h2 {
   text-align: left;
 }
 
-#menu .well {
+/* .menu {
   height: 50px;
   width: 200px;
-}
+} */
 .well {
   height: 300px;
   width: 350px;
 }
+.menu .well {
+  height: 90px;
+  width: 200px;
+  margin-left: 300px;
+  /* background-color: hotpink; */
+  border: 5px;
+  background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
+  border-radius: 20%;
+}
+.menu .well a {
+  color: black;
+}
 
+.menu .well a:visited {
+  color: black;
+}
+
+.language {
+  font-style: italic;
+}
 /* .row { */
   /* float: left;
   width: 50%;
