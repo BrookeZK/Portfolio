@@ -17,7 +17,7 @@ _This is my first personal project with the goal of creating a personal portfoli
 * _In your command line (Terminal or another program), navigate to your desktop._
 * _In your command line, type "git clone https://github.com/BrookeZK/Portfolio" to clone the repository to your desktop._
 * _In your command line, navigate into the new folder "Portfolio"._
-* _Once inside "Portfolio," type "open index.html," and your web browser will open to the home page of Brooke Kullberg's Portfolio webpage._
+* _Once inside "Portfolio," type "open index.html," and your web browser will open to the home page of Brooke Kullberg's Portfolio webpage. From there you can click on the links to projects.html and aboutme.html_
 
 ## Support and contact details
 
