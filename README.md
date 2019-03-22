@@ -10,7 +10,7 @@ _This is my first personal project using HTML, CSS, and Bootstrap, with the goal
 
 ## Setup/Installation Requirements
 
-* _Open _
+* _Open via GitHub pages by following _
 * _Use *Git Clone* to clone the repository from <https:>_
 * _In Terminal, from Home folder navigate to the Desktop folder, then to the ._
 * _Use command  to open the first HTML Webpage_
