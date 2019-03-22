@@ -10,11 +10,11 @@ _This is my first personal project using HTML, CSS, and Bootstrap, with the goal
 
 ## Setup/Installation Requirements
 
-* _Open via GitHub pages by following _
-* _Use *Git Clone* to clone the repository from <https:>_
-* _In Terminal, from Home folder navigate to the Desktop folder, then to the ._
-* _Use command  to open the first HTML Webpage_
-* _Use command  to open the second HTML Webpage_
+* _Open via GitHub repository by going to <https://github.com/BrookeZK/Portfolio>_
+* _Use *Git Clone* to clone the repository using the above web address_
+* _In Terminal, from Home folder navigate to the Desktop folder, then to the Portfolio folder that you have just cloned._
+* _Use command *open index.html* to open the the home page in your internet browser_
+* _Alternatively, you can open the website by going directly to <https://BrookeZK.github.io/Portfolio>_
 
 ## Support and contact details
 
