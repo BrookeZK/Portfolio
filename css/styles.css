@@ -39,6 +39,7 @@ h2 {
   text-align: center;
   float: left;
   width: 50%;
+  height: 50px;
 }
 
 #mission {
@@ -58,6 +59,15 @@ h2 {
 
 #aboutme .col-md-6 {
   text-align: left;
+}
+
+#menu .well {
+  height: 50px;
+  width: 200px;
+}
+.well {
+  height: 300px;
+  width: 350px;
 }
 
 /* .row { */
