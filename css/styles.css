@@ -9,6 +9,24 @@ body {
   background-color: hotpink;
   padding: 20px;
   margin-top: 40px;
+  border: 5px;
+  background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
+  border-radius: 5%;
+}
+
+.sidebar h3 {
+  font-size: 35px;
+  margin-top: 160px;
+  text-align: center;
+  font-family: cursive;
+}
+
+.sidebar a {
+  color: black;
+}
+
+.sidebar a:visited {
+  color: purple;
 }
 
 h1 {
@@ -73,9 +91,11 @@ h2 {
   padding-top: 20px;
 }
 
-#aboutme .col-md-6 {
+#aboutme .col-md-6 .panel {
   text-align: left;
+  background-color: pink;
 }
+
 
 /* .menu {
   height: 50px;
@@ -93,13 +113,6 @@ h2 {
   border: 5px;
   background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
   border-radius: 20%;
-}
-.menu .well a {
-  color: black;
-}
-
-.menu .well a:visited {
-  color: black;
 }
 
 .language {
