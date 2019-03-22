@@ -15,7 +15,7 @@ body {
 }
 
 .sidebar h3 {
-  font-size: 35px;
+  font-size: 50px;
   margin-top: 160px;
   text-align: center;
   font-family: cursive;
@@ -66,6 +66,7 @@ h2 {
   font-size: 30px;
   font-style: normal;
   margin: 60px;
+  font-weight: bold;
 }
 
 #aboutme .cat {
