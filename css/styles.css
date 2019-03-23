@@ -3,7 +3,7 @@ body {
 }
 
 .sidebar {
-  width: 50%;
+  width: 45%;
   height: 570px;
   float: right;
   padding: 20px;
@@ -50,15 +50,18 @@ h2 {
   background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
   border-radius: 20;
   line-height: 100px;
+  margin-bottom: 20px;
 }
 
 .profilephoto {
   display: block;
   width: 50%;
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-top: 40px;
+  padding: 40px;
   float: left;
+  border: 5px dotted black;
+  border-radius: 50%;
+  margin-left: 40px;
+  margin-bottom: 40px;
 }
 
 #mission {
@@ -80,13 +83,13 @@ h2 {
 
 #aboutme .col-md-6 .panel {
   text-align: left;
-  background-color: pink;
+  background-color: rgb(255, 209, 245, 0.5);
 }
 
 .well {
   height: 300px;
   width: 350px;
-  background-color: pink;
+  background-color: rgb(255, 209, 245, 0.5);
 }
 
 .language {
